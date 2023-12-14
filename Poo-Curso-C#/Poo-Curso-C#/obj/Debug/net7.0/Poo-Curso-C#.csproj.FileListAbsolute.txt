@@ -1,0 +1,14 @@
+D:\VS C# Projetos\Poo-curso-C-\Poo-Curso-C#\Poo-Curso-C#\bin\Debug\net7.0\Poo-Curso-C#.exe
+D:\VS C# Projetos\Poo-curso-C-\Poo-Curso-C#\Poo-Curso-C#\bin\Debug\net7.0\Poo-Curso-C#.deps.json
+D:\VS C# Projetos\Poo-curso-C-\Poo-Curso-C#\Poo-Curso-C#\bin\Debug\net7.0\Poo-Curso-C#.runtimeconfig.json
+D:\VS C# Projetos\Poo-curso-C-\Poo-Curso-C#\Poo-Curso-C#\bin\Debug\net7.0\Poo-Curso-C#.dll
+D:\VS C# Projetos\Poo-curso-C-\Poo-Curso-C#\Poo-Curso-C#\bin\Debug\net7.0\Poo-Curso-C#.pdb
+D:\VS C# Projetos\Poo-curso-C-\Poo-Curso-C#\Poo-Curso-C#\obj\Debug\net7.0\Poo-Curso-C#.GeneratedMSBuildEditorConfig.editorconfig
+D:\VS C# Projetos\Poo-curso-C-\Poo-Curso-C#\Poo-Curso-C#\obj\Debug\net7.0\Poo-Curso-C#.AssemblyInfoInputs.cache
+D:\VS C# Projetos\Poo-curso-C-\Poo-Curso-C#\Poo-Curso-C#\obj\Debug\net7.0\Poo-Curso-C#.AssemblyInfo.cs
+D:\VS C# Projetos\Poo-curso-C-\Poo-Curso-C#\Poo-Curso-C#\obj\Debug\net7.0\Poo-Curso-C#.csproj.CoreCompileInputs.cache
+D:\VS C# Projetos\Poo-curso-C-\Poo-Curso-C#\Poo-Curso-C#\obj\Debug\net7.0\Poo-Curso-C#.dll
+D:\VS C# Projetos\Poo-curso-C-\Poo-Curso-C#\Poo-Curso-C#\obj\Debug\net7.0\refint\Poo-Curso-C#.dll
+D:\VS C# Projetos\Poo-curso-C-\Poo-Curso-C#\Poo-Curso-C#\obj\Debug\net7.0\Poo-Curso-C#.pdb
+D:\VS C# Projetos\Poo-curso-C-\Poo-Curso-C#\Poo-Curso-C#\obj\Debug\net7.0\Poo-Curso-C#.genruntimeconfig.cache
+D:\VS C# Projetos\Poo-curso-C-\Poo-Curso-C#\Poo-Curso-C#\obj\Debug\net7.0\ref\Poo-Curso-C#.dll
